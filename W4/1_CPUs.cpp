@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
-#define MAX_N 100
+#define MAX_N 105
 
 using namespace std;
 
 int c, m;
-int dp[MAX_N][MAX_N];
+long long dp[MAX_N][MAX_N];
 int inp[MAX_N][MAX_N];
 
 int main() {
